@@ -1,3 +1,10 @@
+### Hi there 👋  
+My name is Rauf and I'm mostly a backend developer.  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafoabbas&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafoabbas&layout=compact&theme=gotham&custom_title=Statistics)  
+![ViewCount](https://komarev.com/ghpvc/?username=frozrt&color=1A4730)
+
 ### Languages and Tools
 
 <img align="left" alt="PHPStorm" width="26px" src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png" />
@@ -17,11 +24,4 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<br />
 
----
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafoabbas&show_icons=true&locale=en&layout=compact" alt="rafoabbas" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafoabbas&show_icons=true&locale=en" alt="rafoabbas" width="50%" /></p><br />
-
-	
