@@ -1,5 +1,7 @@
 ### Languages and Tools
 
+<img align="left" alt="PHPStorm" width="26px" src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png" />
+
 <img align="left" alt="Laravel" width="26px" src="https://laravel.com/img/logomark.min.svg" />
 <img align="left" alt="PHP" width="26px" src="https://www.pngfind.com/pngs/m/146-1466902_php-logo-png-transparent-php-logo-png-png.png" />
 
